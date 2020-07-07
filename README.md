@@ -7,4 +7,6 @@ CMake and Conan
 
 ## Build
 
+Run `make` to download dependencies (openssl), compile SRT and install it in your local package cache.
+
     make
